@@ -15,6 +15,7 @@ specifiers:
   eslint-plugin-node: ^11.1.0
   eslint-plugin-promise: ^5.1.0
   eslint-plugin-vue: ^8.0.3
+  gojs: ^2.2.12
   sass: ^1.32.7
   sass-loader: ^12.0.0
   vue: ^2.6.14
@@ -24,6 +25,7 @@ specifiers:
 
 dependencies:
   core-js: 3.23.3
+  gojs: 2.2.12
   vue: 2.7.0
   vue-router: 3.5.4
   vuex: 3.6.2_vue@2.7.0
@@ -3939,6 +3941,10 @@ packages:
       merge2: 1.4.1
       slash: 3.0.0
     dev: true
+
+  /gojs/2.2.12:
+    resolution: {integrity: sha512-UM+vydd7sr8C1yFbns1f+or1oR+8PkYZqRRcupYQ8fywrIzBYkhOc+D7Zbi1E2mTcBPLdS/RXBpuS+Lod8uRyA==}
+    dev: false
 
   /graceful-fs/4.2.10:
     resolution: {integrity: sha512-9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==}
